@@ -1,6 +1,6 @@
 # Pond Of Programs
 
-A Pond of Executable `Python` Programs.
+A Pond of Executable `Python` Programs..
 
 # zen
 
